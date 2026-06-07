@@ -12,7 +12,7 @@ import {
 from "https://www.gstatic.com/firebasejs/10.12.2/firebase-database.js";
 
 const firebaseConfig = {
-  databaseURL: "https://money-saver-e0504-default-rtdb.firebaseio.com"
+  databaseURL: "https://dashboard-app-5058e-default-rtdb.firebaseio.com"
 };
 
 const app = initializeApp(firebaseConfig);
